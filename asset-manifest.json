@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myTextutils/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/myTextutils/static/js/main.86ed500d.chunk.js",
+    "main.js.map": "/myTextutils/static/js/main.86ed500d.chunk.js.map",
+    "runtime~main.js": "/myTextutils/static/js/runtime~main.8e40d5bc.js",
+    "runtime~main.js.map": "/myTextutils/static/js/runtime~main.8e40d5bc.js.map",
+    "static/js/2.3a02ade8.chunk.js": "/myTextutils/static/js/2.3a02ade8.chunk.js",
+    "static/js/2.3a02ade8.chunk.js.map": "/myTextutils/static/js/2.3a02ade8.chunk.js.map",
+    "static/js/3.fe76c5f2.chunk.js": "/myTextutils/static/js/3.fe76c5f2.chunk.js",
+    "static/js/3.fe76c5f2.chunk.js.map": "/myTextutils/static/js/3.fe76c5f2.chunk.js.map",
+    "index.html": "/myTextutils/index.html",
+    "precache-manifest.33c1d93a7c1a3036cb09d2a07c80ba77.js": "/myTextutils/precache-manifest.33c1d93a7c1a3036cb09d2a07c80ba77.js",
+    "service-worker.js": "/myTextutils/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/myTextutils/static/css/main.27fd15f6.chunk.css.map"
+  }
+}
